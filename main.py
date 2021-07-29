@@ -1,3 +1,7 @@
+##########################################
+## TO PERFORM TRAINING OF THE CLASSIFIER 
+##########################################
+
 import os
 import random
 import time
