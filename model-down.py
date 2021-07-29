@@ -1,3 +1,7 @@
+###########################
+## TO DOWNLOAD DNN MODELS 
+###########################
+
 import torchvision.models as models
 from efficientnet_pytorch import EfficientNet
 
