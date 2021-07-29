@@ -1,3 +1,9 @@
+#######################################################
+## READ DATA FROM FILENAMES AND SAVE IMAGE AND LABELS 
+## Sleep_Dataset     : for train dataset
+## Sleep_Test_Dataset: for test dataset
+#######################################################
+
 import os
 import random
 import pandas as pd
