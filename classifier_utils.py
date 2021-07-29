@@ -1,3 +1,10 @@
+####################################################
+## TO TRAIN AND TEST CLASSIFIER 
+## train : to train classifier with train dataset
+## test  : to predict labels of validation dataset
+## submit: to predict labels of test dataset
+####################################################
+
 import time
 import numpy as np
 import pandas as pd
