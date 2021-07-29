@@ -4,9 +4,9 @@ hosted by Seoul University Hospital and MINDs'n company<br />
 **Link:** https://maic.or.kr/competitions/3/infomation, https://github.com/AI-Challange/Sleep<br /><br />
 
 - **Sleep_Dataset.py**　　-----　to read data from filenames and save image and label data<br />
-- **model-down.py**　　　　-----　to calculate evaluation metrics<br />
+- **model-down.py**　-----　to calculate evaluation metrics<br />
 - **classifier_utils.py**　-----　to train classifier and test it with validation dataset<br />
-- **main.py**　　　　　　　　-----　to train classifier<br />
+- **main.py**　　　　-----　to train classifier<br />
 - **utils.py**　　　　　　　-----　functions utilized in main script<br />
 - **submit.py**　　　　　　-----　submit inference results<br /><br />
 
