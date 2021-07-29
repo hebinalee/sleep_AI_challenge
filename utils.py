@@ -1,3 +1,7 @@
+######################################
+## FUNCTIONS UTILIZED IN MAIN SCRIPT 
+######################################
+
 import os
 import random
 import numpy as np
