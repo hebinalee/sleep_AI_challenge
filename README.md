@@ -12,7 +12,7 @@ hosted by Seoul University Hospital and MINDs'n company<br />
 - **utils.py**　　　　　-----　functions utilized in main script<br />
 - **submit.py**　　　　-----　to submit inference results<br /><br />
 
-## Directory structure
+## Directory Structure
 ```bash
 ├── README.md
 ├── Sleep_Dataset.py
