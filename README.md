@@ -4,10 +4,21 @@ hosted by Seoul University Hospital and MINDs'n company<br />
 **Link:** https://maic.or.kr/competitions/3/infomation, https://github.com/AI-Challange/Sleep<br /><br />
 
 - **Sleep_Dataset.py**　-----　to read data from filenames and save image and label data<br />
-- **model-down.py**　-----　to download DNN models<br />
+- **model_down.py**　-----　to download DNN models<br />
 - **classifier_utils.py**　-----　to train classifier and test it<br />
 - **main.py**　　　　　-----　to perform training of classifier<br />
 - **utils.py**　　　　　-----　functions utilized in main script<br />
 - **submit.py**　　　　-----　to submit inference results<br /><br />
+
+```bash
+├── README.md
+├── Sleep_Dataset.py
+├── model_down.py
+├── classifier_utils.py
+├── main.py
+├── utils.py
+└── submit.py
+```
+<br />
 
 **copyrightⓒ 2021 All rights reserved by Hyebin Lee, Youngtaek Oh, Seungwan Jeong, and Hyungshin Choi<br /><br />**
